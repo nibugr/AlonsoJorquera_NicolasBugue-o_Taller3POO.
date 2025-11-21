@@ -5,13 +5,13 @@ AlonsoJorquera_NicolasBugueno_Taller3POO.
 **Asignatura:** Programación Orientada a Objetos  
 **Semestre:** II Semestre 2025  
 **Institución:** Universidad Católica del Norte  
-**Carrera:** Ingeniería Civil en Computación e Informática
+**Carrera:** Ingeniería Civil en Computación e Informática e  Ingeniería en Tecnologias de Informacion
 
 ##  Integrantes del Grupo
-| Nombre | RUT | Carrera | Usuario GitHub |
-|--------|-----|---------|----------------|
-| Nicolás Bugueño | 21.123.456-7 | Ingeniería Civil en Computación e Informática | [TuUsuarioGitHub] |
-| Alonso Jorquera | 21.123.456-8 | Ingeniería Civil en Computación e Informática | [UsuarioGitHubAlonso] |
+| Nombre | RUT | Carrera | 
+|--------|-----|---------|
+| Nicolás Bugueño | 20.007.300-2| Ingeniería Civil en Computación e Informática |
+| Alonso Jorquera | 20.948.058-1 | Ingeniería en Tecnologias de Informacion | 
 
 ##  Objetivos del Taller
 - Diseñar e implementar un sistema de gestión de proyectos
